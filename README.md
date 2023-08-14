@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @souravsingh92
-- 👀 I’m interested in technology 
+- 👀 I’m interested in web technology 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web based projects
 
