@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @souravsingh92
+- 👋 Hi, I’m sourav singh
 - 👀 I’m interested in web technology 
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning **react**
 - 💞️ I’m looking to collaborate on web based projects
 
 <!---
